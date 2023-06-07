@@ -1,0 +1,38 @@
+body{
+    /* margin: 0px;
+    padding: 0px;
+    background: url("https://images.everydayhealth.com/images/everything-you-need-know-about-fitness-1440x810.jpg") no-repeat center/cover;
+    height: 100vh; */
+    /* content: "";
+    background: url("https://images.everydayhealth.com/images/everything-you-need-know-about-fitness-1440x810.jpg") no-repeat ;
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+    top: 0;
+    left: 0; */
+    background-image: url('https://www.costmanagement.eu/images/blog/calculator.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.navbar{
+    background-color: black;
+    opacity: 0.7;
+}
+
+.line{
+    border: 2px solid white !important;
+}
+
+.multiline{
+    filter: invert(100%);
+}
+
+.card{
+    
+    background-color: #e7d6c0 !important;
+    
+}
+

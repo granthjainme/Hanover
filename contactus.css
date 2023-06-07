@@ -1,0 +1,91 @@
+body{
+    /* margin: 0px;
+    padding: 0px;
+    background: url("https://images.everydayhealth.com/images/everything-you-need-know-about-fitness-1440x810.jpg") no-repeat center/cover;
+    height: 100vh; */
+    /* content: "";
+    background: url("https://images.everydayhealth.com/images/everything-you-need-know-about-fitness-1440x810.jpg") no-repeat ;
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+    top: 0;
+    left: 0; */
+    background-image: url('https://ankitpandey124.files.wordpress.com/2021/12/3124512.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+.line{
+    border: 2px solid white !important;
+}
+
+.multiline{
+    filter: invert(100%);
+}
+
+.navbar{
+    background-color: black;
+    opacity: 0.6;
+}
+
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+    margin-left: 70px;
+    margin-right: 70px;
+    font-family: 'Baloo Bhai 2', cursive;
+     font-size: 3rem;
+}
+
+.contact-form {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 30px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+input[type="text"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #555;
+}

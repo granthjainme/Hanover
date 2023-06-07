@@ -1,0 +1,30 @@
+body{
+    /* margin: 0px;
+    padding: 0px;
+    background: url("hanover_background.jpg") no-repeat center/cover;
+    height: 100vh; */
+    background-image: url('hanover_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.line{
+    border: 2px solid white !important;
+}
+
+.multiline{
+    filter: invert(100%);
+}
+
+.heading{
+    margin-top: 150px;
+    color: white;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 4rem;
+    text-align: center;
+}
+.head3{
+    text-align: center;
+    color: white;
+}
